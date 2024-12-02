@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+plotly-express
+selenium
+sklearn
+statsmodels
+tensorflow
